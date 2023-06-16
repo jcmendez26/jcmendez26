@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jcmendez26
-- 👀 I’m interested apender a usar GitHub para el manejo de versiones, ya que eso suele ser algo complicado estsr guardando copias de carpetas de archivps
+- 👀 I’m interested apender a usar GitHub para el manejo de versiones, ya que eso suele ser algo complicado estar guardando copias de carpetas de archivps
 - 🌱 I’m currently learning ... algo de php, html, css.
 - 💞️ I’m looking to collaborate on ... proyectos donde me ayuden a implementar un poco de lo que se, y claramente a aprender mas de la comunidad.
 - 📫 How to reach me ... al correo jcleoms@gmail.com
